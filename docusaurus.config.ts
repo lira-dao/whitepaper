@@ -61,6 +61,7 @@ const config: Config = {
       logo: {
         alt: 'lira dao logo',
         src: 'img/logo.png',
+        href: 'https://liradao.org',
       },
       items: [
         {
