@@ -23,20 +23,20 @@ TB tokens empower the community to influence the overall supply of LDC in circul
 ### Minting TB Tokens and Secure Storage
 A portion of newly minted LDC blocks is automatically allocated towards the creation of TB tokens, with a specific breakdown:
 
-- *50%*: Allocated for TB Gold (**TBg**) creation
-- *30%*: Allocated for TB Silver (**TBs**) creation
-- *20%*: Allocated for TB Bronze (**Tbb**) creation
+- **50%**: Allocated for TB Gold (**TBg**) creation
+- **30%**: Allocated for TB Silver (**TBs**) creation
+- **20%**: Allocated for TB Bronze (**Tbb**) creation
 These newly minted TB tokens are then securely stored within a designated vault managed by smart contracts, ensuring their integrity and transparency.
 
 ### Distribution of TB Tokens and Benefits
 The distribution of TB tokens and their associated benefits are carefully structured to incentivize participation and fuel ecosystem growth:
 
-- *40%*: Dedicated to TB LP Staking, rewarding users who contribute to liquidity within the ecosystem.
-- *25%*: Allocated to the LIRA Ecosystem Reward Division, incentivizing active participation and fostering overall growth.
-- *10%*: Directed towards the LIRA DAO Fund, supporting essential services and ongoing DAO operations.
-- *10%*: Allocated to the LIRA Team, ensuring continued development and maintenance of the ecosystem.
-- *10%*: Offered as additional incentives to attract and reward ecosystem participants.
--  *5%*: Awarded to green energy social mining producers, reinforcing the LIRA ecosystem's commitment to sustainability.
+- **40%**: Dedicated to TB LP Staking, rewarding users who contribute to liquidity within the ecosystem.
+- **25%**: Allocated to the LIRA Ecosystem Reward Division, incentivizing active participation and fostering overall growth.
+- **10%**: Directed towards the LIRA DAO Fund, supporting essential services and ongoing DAO operations.
+- **10%**: Allocated to the LIRA Team, ensuring continued development and maintenance of the ecosystem.
+- **10%**: Offered as additional incentives to attract and reward ecosystem participants.
+-  **5%**: Awarded to green energy social mining producers, reinforcing the LIRA ecosystem's commitment to sustainability.
 
 ### A Dynamic Ecosystem
 The implementation of Treasury Bond (TB) tokens introduces a powerful mechanism for fostering stability and growth within the LIRA DAO Ecosystem. By enabling strategic inflation or deflation of the LDC supply, promoting liquidity, and incentivizing participation, TB tokens lay the foundation for a thriving and sustainable community-driven ecosystem.
