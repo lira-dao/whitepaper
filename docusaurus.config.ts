@@ -27,7 +27,8 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+		locales: ['en'],
+    // locales: ['en', 'it'],
   },
 
   presets: [
@@ -70,10 +71,14 @@ const config: Config = {
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/lira-dao',
           label: 'GitHub',
           position: 'right',
         },
+				// {
+        //   type: 'localeDropdown',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
@@ -84,7 +89,7 @@ const config: Config = {
           items: [
             {
               label: 'Whitepaper',
-              to: '/docs/intro',
+              to: '/',
             },
           ],
         },
@@ -92,16 +97,12 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/fDRBajCB9V',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/LIRA_DAO',
             },
           ],
         },
@@ -109,17 +110,13 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/lira-dao',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} LIRA DAO, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
