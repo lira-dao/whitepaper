@@ -20,5 +20,9 @@ This interconnected structure fosters collaboration and encourages the developme
 ### Ensuring Trust and Security in a Decentralized Landscape
 But LIRA Chain goes beyond just connections. It acts as a trusted mediator, verifying and authenticating shared information across interconnected private chains (Layer 2). This ensures the integrity and security of the information flowing through the ecosystem, creating a harmonious environment where both private and public entities can reap the benefits of blockchain technology.
 
+
+![An image from the static](/img/LIRACHAIN.png)
+
+
 ### LIRA Chain: A Catalyst for Progress
 In essence, LIRA Chain is more than just a blockchain; it's a bridge to the future. Layer 1, the Interconnection Main Infrastructure, creates a secure and trusted environment for public and private entities to interact. It fosters collaboration and innovation between businesses and Web3 projects. Layer 2, the LIRA Business Network, empowers individuals and businesses to actively participate in the decentralized future by reducing transaction costs, enhancing efficiency, and ensuring information security. LIRA Chain's unifying impact transcends traditional boundaries, making the power of DeFi accessible to all and propelling societal progress through a secure and inclusive platform.
