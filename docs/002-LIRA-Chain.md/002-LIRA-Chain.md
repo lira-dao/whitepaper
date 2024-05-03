@@ -32,14 +32,13 @@ The integration of private and public networks via LIRA Chain catalyzes synergis
 
 For public administrations, this interoperability translates into enhanced efficiency and responsiveness. By tapping into the transparent and secure infrastructure of LIRA Chain, governmental bodies can streamline interactions with businesses, reducing bureaucratic bottlenecks and accelerating decision-making processes.
 
+![Lira Chain](/img/LIRACHAIN.png)
+
 ### Beyond Cost Savings: A Richer Web3 Experience
 This interconnected structure fosters collaboration and encourages the development of diverse projects, enriching the LIRA experience for users with a broad spectrum of value-added services. Additionally, by joining the LIRA Business Network (Layer 2), Web3 projects gain access to a thriving community, allowing them to directly benefit users through innovative staking mechanisms.
 
 ### Ensuring Trust and Security in a Decentralized Landscape
 But LIRA Chain goes beyond just connections. It acts as a trusted mediator, verifying and authenticating shared information across interconnected private chains (Layer 2). This ensures the integrity and security of the information flowing through the ecosystem, creating a harmonious environment where both private and public entities can reap the benefits of blockchain technology.
-
-
-![An image from the static](/img/LIRACHAIN.png)
 
 
 ### LIRA Chain: A Catalyst for Progress

@@ -15,7 +15,7 @@ TB tokens categories:
 
 - **TBg** (*Gold*): Representing a larger holding, each TBg token embodies a value of **1,000,000.00 LDC**.
 - **TBs** (*Silver*): Offering a mid-tier option, each TBs token holds a value of **100,000.00 LDC**.
-- **TBb** (*Bronze*): Providing an accessible entry point, each TBb token is valued at **10,000.00** LDC.
+- **TBb** (*Bronze*): Providing an accessible entry point, each TBb token is valued at **10,000.00 LDC**.
 
 ### Inflation and Deflation: A Community-Driven Approach
 TB tokens empower the community to influence the overall supply of LDC in circulation. Through a well-defined governance process within the Decentralized Autonomous Organization (DAO), participants can vote on the allocation of LDC for TB token creation. This empowers the community to strategically adjust the LDC supply based on the ecosystem's needs, fostering adaptability and long-term sustainability.
@@ -31,7 +31,7 @@ These newly minted TB tokens are then securely stored within a designated vault 
 ### Distribution of TB Tokens and Benefits
 The distribution of TB tokens and their associated benefits are carefully structured to incentivize participation and fuel ecosystem growth:
 
-- **40%**: Dedicated to TB LP Staking, rewarding users who contribute to liquidity within the ecosystem.
+- **40%**: Dedicated to TB LP Farming, rewarding users who contribute to liquidity within the ecosystem.
 - **25%**: Allocated to the LIRA Ecosystem Reward Division, incentivizing active participation and fostering overall growth.
 - **10%**: Directed towards the LIRA DAO Fund, supporting essential services and ongoing DAO operations.
 - **10%**: Allocated to the LIRA Team, ensuring continued development and maintenance of the ecosystem.

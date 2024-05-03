@@ -13,14 +13,18 @@ Following the initial burning of a predetermined portion of minted LDC tokens, t
 
 The remaining **20%** of LDC is distributed strategically within the LIRA ecosystem to support various initiatives.
 
+![An image from the static](/img/LDCdistributionf.png)
+
 ## A Breakdown of LDC Distribution
 Let's delve deeper into the specific breakdown of the remaining 20% of LDC:
 
 **Treasury Bond (TB) Token Staking (40%):** As mentioned earlier, a substantial allocation is dedicated to incentivize TB token staking. This encourages long-term participation and rewards users for their commitment to the ecosystem.
 
-**Liquidity Provider (LP) Staking (20%):** To ensure a healthy and stable financial environment, a portion of LDC is allocated to liquidity mining activities. This incentivizes users to contribute to the liquidity pools, fostering a smooth and efficient flow of transactions within the LIRA protocol.
+**Liquidity Provider (LP) Farming (20%):** To ensure a healthy and stable financial environment, a portion of LDC is allocated to liquidity mining activities. This incentivizes users to contribute to the liquidity pools, fostering a smooth and efficient flow of transactions within the LIRA protocol.
 
 **DAO Fund (14%):** To empower the community and facilitate effective governance, a significant allocation is dedicated to the DAO Fund. These resources finance essential services, decision-making processes, and various operational expenses within the LIRA DAO.
+
+**Incentives 10%**: Offered as additional incentives to attract and reward ecosystem participants.
 
 **Team Allocation (10%):** In recognition of the project team's ongoing efforts and dedication, a portion of LDC is allocated to the team. This allocation ensures the team has the resources necessary to continue developing and maintaining the LIRA protocol at the highest level.
 

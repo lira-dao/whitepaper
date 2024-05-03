@@ -30,7 +30,7 @@ The SatoshiLIRA tokens used for LTB minting are securely locked within designate
 ### Unlocking the Value of LTB Tokens
 LTB token distribution is meticulously designed to incentivize participation and fuel ecosystem growth:
 
-- **40%**: LTB LP Staking: This allocation incentivizes users to contribute to liquidity pools, fostering smooth and efficient trading within the LIRA ecosystem.
+- **40%**: LTB LP Farming: This allocation incentivizes users to contribute to liquidity pools, fostering smooth and efficient trading within the LIRA ecosystem.
 - **25%**: LIRA Ecosystem Reward Division: A significant portion is dedicated to rewarding active participants within the LIRA ecosystem, promoting user engagement and growth.
 - **10%**: LIRA DAO Fund: This allocation empowers the DAO for operational expenses and community-driven initiatives.
 - **10%**: LIRA Team Allocation: This ensures the LIRA development team has the resources to continuously support and maintain the ecosystem.

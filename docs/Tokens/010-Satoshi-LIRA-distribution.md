@@ -15,7 +15,7 @@ Following the aforementioned burning process, the remaining minted SatoshiLIRA t
 
 - **LIRA Treasury Bond (LTB) Staking (40%)**: A substantial portion (40%) is allocated to incentivize LTB token staking. LTB tokens serve as a bridge between SatoshiLIRA and the broader LIRA ecosystem. By staking their SatoshiLIRA tokens, LTB holders gain the opportunity to earn additional rewards, fostering long-term commitment and active participation within the LIRA ecosystem.
 
-- **Liquidity Provider (LP) Staking (20%)**: This allocation (20%) aims to incentivize liquidity providers to contribute to the overall health of the LIRA project. By dedicating a significant portion of tokens to liquidity mining, the protocol actively promotes the formation of liquidity pools, fostering stability and smooth transactions within the LIRA ecosystem.
+- **Liquidity Provider (LP) Farming (20%)**: This allocation (20%) aims to incentivize liquidity providers to contribute to the overall health of the LIRA project. By dedicating a significant portion of tokens to liquidity mining, the protocol actively promotes the formation of liquidity pools, fostering stability and smooth transactions within the LIRA ecosystem.
 
 - **Green Energy Producers (15%)**: Reflecting the LIRA ecosystem's unwavering commitment to sustainability within the cryptocurrency industry, 15% of minted tokens are allocated to green energy producers. This allocation serves a dual purpose: it directly rewards those who contribute to environmentally friendly practices, and it strengthens the LIRA ecosystem's reputation as a leader in sustainable blockchain initiatives.
 
