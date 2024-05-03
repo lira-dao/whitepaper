@@ -15,7 +15,7 @@ At the heart of DAO Social Mining lies an unwavering commitment to green energy.
 The DAO plays a pivotal role in amplifying the value of the LIRA ecosystem. Through its Bitcoin mining operations, it generates BTC that flows directly into the Satoshi LIRA smart contract. This integration serves a dual purpose: it incentivizes environmentally conscious practices within the ecosystem, and it fosters a sustainable financial environment. By intertwining finance and sustainability, the flow of BTC from DAO Social Mining into the LIRA smart contract creates a powerful engine for positive change.
 
 ### Optimizing for Efficiency and Growth
-DAO Social Mining takes a holistic approach, focusing on optimizing both green energy sources and yields. Through continuous efforts to improve renewable energy production and efficiency, the program ensures a sustainable and scalable mining operation. Additionally, strategic yield optimization strategies maximize Bitcoin output, driving economic growth and financial stability within the ecosystem.
+The DAO Social Mining focus is on optimizing both green energy sources and yields. Through continuous efforts to improve renewable energy production and efficiency, the program ensures a sustainable and scalable mining operation. Additionally, strategic yield optimization strategies maximize Bitcoin output, driving economic growth and financial stability within the ecosystem.
 
 
 ### Building a Socially Supportive Economy
@@ -23,3 +23,7 @@ DAO Social Mining transcends traditional financial models by actively nurturing 
 
 ### A Beacon of Change: DAO Social Mining and the Future
 DAO Social Mining stands as a groundbreaking initiative within the LIRA DAO Ecosystem. Its unwavering commitment to renewable energy and social responsibility positions it as a pioneer of sustainable Bitcoin mining. By harnessing the power of green energy and optimizing yields, DAO Social Mining paves the way for a harmonious future where finance and sustainability coexist. With the support of traditional finance and a dedication to creating a social supportive economy, DAO Social Mining embodies the transformative potential of blockchain technology.
+
+
+![An image from the static](/img/socialmining.png)
+*example of a DAO solar farm*
