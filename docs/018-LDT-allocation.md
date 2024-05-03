@@ -1,6 +1,6 @@
 ---
 sidebar_position: 19
-title: LIRA DAO TOKEN Allocation
+title: LIRA DAO TOKEN Emission Schedule
 ---
 
 The strategic allocation of the LDT token supply plays a pivotal role in fostering the LIRA ecosystem's growth and development. This chapter explores the distribution plan for the 10 billion pre-minted LDT tokens, highlighting how they incentivize participation across both the Arbitrum (ARB) chain and the future LIRA CHAIN.
