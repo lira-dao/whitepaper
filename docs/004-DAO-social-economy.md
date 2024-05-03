@@ -17,6 +17,8 @@ The LIRA DAO Social Economy extends beyond mere voting. Active participants, suc
 ### The Future of Shopping: A Blockchain Grocery Store Example
 To illustrate the potential of the LIRA DAO Social Economy, consider the concept of a blockchain-based grocery store. This innovative store would leverage blockchain technology to track every step of the supply chain, from farm to fork, ensuring complete transparency, traceability, and authenticity of products. Imagine a world where you can be confident about the origins and quality of the food you purchase, all thanks to the power of blockchain technology.
 
+![An image from the static](/img/Grocerystore.png)
+
 ### The Power of Many: Expanding the Social Economy
 The blockchain grocery store represents just one example of the countless possibilities within the LIRA DAO Social Economy. The potential for community-driven projects is vast, encompassing initiatives in sustainable energy, education, charitable endeavors, and social impact ventures. By harnessing the collective creativity and innovation of the community, the LIRA DAO Ecosystem can empower individuals to address pressing social and environmental challenges.
 
