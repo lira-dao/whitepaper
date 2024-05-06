@@ -1,6 +1,6 @@
 ---
 sidebar_position: 17
-title: Incentives and Growth
+title: Ambassador Program - Incentives
 ---
 
 The LIRA ecosystem thrives on a foundation of active community engagement. This chapter explores the multifaceted incentive programs designed to empower Ambassadors and users, fostering a collaborative environment that fuels the LIRA ecosystem's continued growth.
