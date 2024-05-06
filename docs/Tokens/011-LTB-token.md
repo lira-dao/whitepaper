@@ -32,9 +32,10 @@ LTB token distribution is meticulously designed to incentivize participation and
 
 - **40%**: LTB LP Farming: This allocation incentivizes users to contribute to liquidity pools, fostering smooth and efficient trading within the LIRA ecosystem.
 - **25%**: LIRA Ecosystem Reward Division: A significant portion is dedicated to rewarding active participants within the LIRA ecosystem, promoting user engagement and growth.
+- **15%**: Green Energy Social Mining Producers: This allocation aligns with the LIRA ecosystem's commitment to sustainability by rewarding green energy producers.
 - **10%**: LIRA DAO Fund: This allocation empowers the DAO for operational expenses and community-driven initiatives.
 - **10%**: LIRA Team Allocation: This ensures the LIRA development team has the resources to continuously support and maintain the ecosystem.
-- **15%**: Green Energy Social Mining Producers: This allocation aligns with the LIRA ecosystem's commitment to sustainability by rewarding green energy producers.
+
 
 ### A Symbiotic Relationship
 The implementation of LIRA Treasury Bond tokens creates a symbiotic relationship within the LIRA ecosystem. LTBs offer intrinsic value, empower holders, and contribute to a balanced and adaptable monetary policy. The strategic distribution of LTB tokens fuels ecosystem growth, incentivizes participation, and fosters a thriving LIRA community. LTBs are a cornerstone of the LIRA ecosystem's stability and long-term success.

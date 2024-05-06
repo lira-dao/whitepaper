@@ -11,6 +11,8 @@ The Satoshi LIRA token is a revolutionary initiative that breaks down barriers b
 ### Intrinsic Value Anchored by Smart Contracts
 The cornerstone of the Satoshi LIRA token's value lies in its direct link to wrapped Bitcoin (wBTC). As a tokenized representation of BTC on the Ethereum blockchain, wBTC offers a secure and convenient way to hold Bitcoin within a smart contract environment. The LIRA token leverages this established value by ensuring a seamless and verifiable conversion between wBTC and LIRA through smart contracts. This transparency fosters trust and confidence among LIRA token holders, as the intrinsic value of their holdings is demonstrably tied to the underlying Bitcoin asset.
 
+![Satoshi Lira Contract](/img/satoshilira.png)
+
 ### Enhancing Value Through Scarcity
 The LIRA token implements a sophisticated burn mechanism embedded within its smart contract. This mechanism strategically removes a portion of LIRA tokens from circulation over time. By reducing overall supply, burning directly contributes to the token's scarcity, potentially driving up its intrinsic value for existing holders. This built-in feature operates with complete transparency and immutability, thanks to the self-executing nature of smart contracts.
 
