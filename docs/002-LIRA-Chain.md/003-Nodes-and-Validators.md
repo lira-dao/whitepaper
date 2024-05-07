@@ -21,7 +21,7 @@ On the LIRA Chain, anyone can become a validator by participating in a process c
 The LIRA DAO, a decentralized autonomous organization, plays a crucial role in validator management. While some validators may operate independently, DAO-managed validators contribute significantly to the stability and efficiency of the ecosystem. The DAO oversees the selection, monitoring, and coordination of these validators, ensuring their activities align with the collective interests of the LIRA community. By entrusting validator management to the DAO, the LIRA Chain fosters transparency, accountability, and a more robust and secure network.
 
 
-![An image from the static](/img/DAOVALIDATOR.png)
+![Dao Validator](/img/DAOVALIDATOR.png)
 
 
 ### Rewards for a Sustainable Ecosystem

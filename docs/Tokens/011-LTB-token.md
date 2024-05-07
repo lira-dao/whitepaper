@@ -16,6 +16,8 @@ LTB tokens come in three distinct denominations:
 - **LTBb** (*Bronze*): Providing an accessible entry point, each LTBb token is valued at **100,000.00** Satoshi LIRA.
 This range of denominations caters to diverse investor preferences within the LIRA ecosystem.
 
+![LTB Value](/img/ltbvalue.png)
+
 ### Strategic Governance of Supply: Inflation and Deflation
 LTB tokens play a critical role in managing the circulating supply of SatoshiLIRA tokens. Through a well-defined governance process facilitated by the Decentralized Autonomous Organization (DAO), participants hold the power to influence the creation of new LTB tokens, effectively regulating the inflation or deflation of the SatoshiLIRA supply. This empowers the community to adapt the ecosystem's monetary policy in response to changing market conditions and user needs.
 

@@ -5,7 +5,7 @@ title: Ambassador Program - Incentives
 
 The LIRA ecosystem thrives on a foundation of active community engagement. This chapter explores the multifaceted incentive programs designed to empower Ambassadors and users, fostering a collaborative environment that fuels the LIRA ecosystem's continued growth.
 
-## The Ambassador Program: Champions of Decentralized Finance
+## Champions of Decentralized Finance
 The Ambassador program introduces a pivotal role within the LIRA ecosystem, one dedicated to fostering community expansion and engagement. Ambassadors act as passionate advocates, collaborating closely with the LIRA team to spread awareness of the ecosystem's offerings and extend invitations to prospective members. This initiative harnesses the collective power of dedicated individuals who share a passion for advancing the principles of Decentralized Finance (DeFi).
 
 ### Earning While Contributing: Ambassador Rewards

@@ -22,8 +22,9 @@ The LIRA ecosystem is on a dynamic trajectory, continuously evolving to deliver 
 ### Q3 2024:
 
 1. **LIRA DEX Deployment (BSC Chain)**: Expanding the reach of the LIRA DEX, this deployment integrates it with the Binance Smart Chain (BSC) network, fostering wider user adoption.
-2. **LIRA Chain Business Solutions Integration**: The LIRA Chain embarks on its mission to revolutionize supply chain management by integrating innovative business solutions.
-3. **DAO Governance System Implementation**: A cornerstone of the LIRA ecosystem's decentralized nature, the DAO governance system is implemented, empowering community members to actively participate in shaping the LIRA ecosystem's future.
+2. **DAO Governance System Implementation**: A cornerstone of the LIRA ecosystem's decentralized nature, the DAO governance system is implemented, empowering community members to actively participate in shaping the LIRA ecosystem's future.
+3. **LIRA Chain Business Solutions Integration**: The LIRA Chain embarks on its mission to revolutionize supply chain management by integrating innovative business solutions.
+
 
 ## 2025: Unlocking the Full Potential
 

@@ -17,6 +17,8 @@ TB tokens categories:
 - **TBs** (*Silver*): Offering a mid-tier option, each TBs token holds a value of **100,000.00 LDC**.
 - **TBb** (*Bronze*): Providing an accessible entry point, each TBb token is valued at **10,000.00 LDC**.
 
+![TB Value](/img/tbvalue.png)
+
 ### Inflation and Deflation: A Community-Driven Approach
 TB tokens empower the community to influence the overall supply of LDC in circulation. Through a well-defined governance process within the Decentralized Autonomous Organization (DAO), participants can vote on the allocation of LDC for TB token creation. This empowers the community to strategically adjust the LDC supply based on the ecosystem's needs, fostering adaptability and long-term sustainability.
 
@@ -27,6 +29,8 @@ A portion of newly minted LDC blocks is automatically allocated towards the crea
 - **30%**: Allocated for TB Silver (**TBs**) creation
 - **20%**: Allocated for TB Bronze (**Tbb**) creation
 These newly minted TB tokens are then securely stored within a designated vault managed by smart contracts, ensuring their integrity and transparency.
+
+![TB Minting](/img/tbtypeminting.png)
 
 ### Distribution of TB Tokens and Benefits
 The distribution of TB tokens and their associated benefits are carefully structured to incentivize participation and fuel ecosystem growth:
