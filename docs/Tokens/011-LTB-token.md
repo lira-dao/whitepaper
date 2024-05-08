@@ -38,6 +38,8 @@ LTB token distribution is meticulously designed to incentivize participation and
 - **10%**: LIRA DAO Fund: This allocation empowers the DAO for operational expenses and community-driven initiatives.
 - **10%**: LIRA Team Allocation: This ensures the LIRA development team has the resources to continuously support and maintain the ecosystem.
 
+![LTB Minting](/img/ltbminting.png)
+
 
 ### A Symbiotic Relationship
 The implementation of LIRA Treasury Bond tokens creates a symbiotic relationship within the LIRA ecosystem. LTBs offer intrinsic value, empower holders, and contribute to a balanced and adaptable monetary policy. The strategic distribution of LTB tokens fuels ecosystem growth, incentivizes participation, and fosters a thriving LIRA community. LTBs are a cornerstone of the LIRA ecosystem's stability and long-term success.

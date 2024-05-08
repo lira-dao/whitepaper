@@ -42,5 +42,7 @@ The distribution of TB tokens and their associated benefits are carefully struct
 - **10%**: Offered as additional incentives to attract and reward ecosystem participants.
 -  **5%**: Awarded to green energy social mining producers, reinforcing the LIRA ecosystem's commitment to sustainability.
 
+![TB Distr](/img/tbminting.png)
+
 ### A Dynamic Ecosystem
 The implementation of Treasury Bond (TB) tokens introduces a powerful mechanism for fostering stability and growth within the LIRA DAO Ecosystem. By enabling strategic inflation or deflation of the LDC supply, promoting liquidity, and incentivizing participation, TB tokens lay the foundation for a thriving and sustainable community-driven ecosystem.
