@@ -66,7 +66,7 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'whitepaperSidebar',
+          sidebarId: 'MainSidebar',
           position: 'left',
           label: 'Whitepaper',
         },
