@@ -54,6 +54,8 @@ Following the aforementioned burning process, the remaining minted SatoshiLIRA t
 
 - **Marketing Allocation (1%)**: To raise awareness and attract new users, a small allocation (1%) of the remaining tokens is reserved for strategic marketing campaigns. These resources will be used to effectively promote the LIRA project and its innovative offerings to a wider audience, fostering widespread adoption and propelling the LIRA ecosystem towards continued growth.
 
+![Satoshi LIRA distribution](/img/NEWLIRABLOCK.png)
+
 ---
 
 *The strategic distribution of minted SatoshiLIRA tokens serves a multifaceted purpose. It fosters long-term value creation by implementing a burn mechanism, incentivizes essential ecosystem functions through targeted allocations, and empowers the community through the DAO Fund. This well-defined distribution strategy lays the foundation for the sustainable growth and long-term success of the LIRA project.*

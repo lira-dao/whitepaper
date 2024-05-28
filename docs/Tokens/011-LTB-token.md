@@ -38,7 +38,7 @@ LTB token distribution is meticulously designed to incentivize participation and
 - **10%**: LIRA DAO Fund: This allocation empowers the DAO for operational expenses and community-driven initiatives.
 - **10%**: LIRA Team Allocation: This ensures the LIRA development team has the resources to continuously support and maintain the ecosystem.
 
-![LTB Minting](/img/ltbminting.png)
+![LTB Minting](/img/NEWLIRABLOCKLTB.png)
 
 
 ### A Symbiotic Relationship

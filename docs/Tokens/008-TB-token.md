@@ -17,7 +17,7 @@ TB tokens categories:
 - **TBs** (*Silver*): Offering a mid-tier option, each TBs token holds a value of **10,000.00 LDC**.
 - **TBb** (*Bronze*): Providing an accessible entry point, each TBb token is valued at **1,000.00 LDC**.
 
-![TB Value](/img/tbvalue.png)
+![TB Value](/img/TBVALUE.png)
 
 ### Inflation and Deflation: A Community-Driven Approach
 TB tokens empower the community to influence the overall supply of LDC in circulation. Through a well-defined governance process within the Decentralized Autonomous Organization (DAO), participants can vote on the allocation of LDC for TB token creation. This empowers the community to strategically adjust the LDC supply based on the ecosystem's needs, fostering adaptability and long-term sustainability.
@@ -36,13 +36,13 @@ These newly minted TB tokens are then securely stored within a designated vault 
 The distribution of TB tokens and their associated benefits are carefully structured to incentivize participation and fuel ecosystem growth:
 
 - **40%**: Dedicated to TB LP Farming, rewarding users who contribute to liquidity within the ecosystem.
-- **25%**: Allocated to the LIRA Ecosystem Reward Division, incentivizing active participation and fostering overall growth.
+- **25%**: Allocated to the TB Staking Reward Division, incentivizing active participation and contributing to the ecosystem stability.
 - **10%**: Directed towards the LIRA DAO Fund, supporting essential services and ongoing DAO operations.
 - **10%**: Allocated to the LIRA Team, ensuring continued development and maintenance of the ecosystem.
 - **10%**: Offered as additional incentives to attract and reward ecosystem participants.
 -  **5%**: Awarded to green energy social mining producers, reinforcing the LIRA ecosystem's commitment to sustainability.
 
-![TB Distr](/img/tbminting.png)
+![TB Distr](/img/NEWLDCBLOCKTB.png)
 
 ### A Dynamic Ecosystem
 The implementation of Treasury Bond (TB) tokens introduces a powerful mechanism for fostering stability and growth within the LIRA DAO Ecosystem. By enabling strategic inflation or deflation of the LDC supply, promoting liquidity, and incentivizing participation, TB tokens lay the foundation for a thriving and sustainable community-driven ecosystem.
