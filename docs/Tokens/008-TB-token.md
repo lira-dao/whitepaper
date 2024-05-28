@@ -13,9 +13,9 @@ TB tokens come in three distinct categories – TB Gold (TBg), TB Silver (TBs), 
 
 TB tokens categories:
 
-- **TBg** (*Gold*): Representing a larger holding, each TBg token embodies a value of **1,000,000.00 LDC**.
-- **TBs** (*Silver*): Offering a mid-tier option, each TBs token holds a value of **100,000.00 LDC**.
-- **TBb** (*Bronze*): Providing an accessible entry point, each TBb token is valued at **10,000.00 LDC**.
+- **TBg** (*Gold*): Representing a larger holding, each TBg token embodies a value of **100,000.00 LDC**.
+- **TBs** (*Silver*): Offering a mid-tier option, each TBs token holds a value of **10,000.00 LDC**.
+- **TBb** (*Bronze*): Providing an accessible entry point, each TBb token is valued at **1,000.00 LDC**.
 
 ![TB Value](/img/tbvalue.png)
 
