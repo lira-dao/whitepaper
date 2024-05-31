@@ -9,10 +9,10 @@ The LIRA ecosystem ushers in a new paradigm of cryptocurrency exchange with the 
 ### Sustainable Growth Through Fee Distribution
 Transactions on the LIRA DEX generate fees that are strategically distributed to fuel the ecosystem's growth and incentivize participation. Here's a breakdown of the fee allocation strategy:
 
+- **25%** LP Stakers: To ensure ample liquidity within the DEX and facilitate smooth trading experiences, 25% of the fees are distributed to liquidity providers who stake their tokens. This incentivizes users to contribute to the liquidity pool, benefiting both traders and the overall health of the DEX.
+- **35%** SatoshiLIRA Smart Contract: A crucial allocation is designated to nourish the lifeblood of the ecosystem - the SatoshiLIRA smart contract. These funds ensure the ongoing maintenance and functionality of the smart contract, safeguarding the foundation of the LIRA ecosystem.
 - **20%** LIRA Ecosystem Reward Division: A substantial portion is dedicated to rewarding users for their participation within the LIRA ecosystem. This incentivizes active engagement and fosters the overall growth of the platform.
 - **15%** Green Energy Social Mining Fund: Demonstrating a commitment to sustainability, a significant allocation is directed towards the green energy social mining fund. These funds directly support the generation of Bitcoin through eco-friendly mining practices, promoting a greener future for the blockchain industry.
-- **25%** LP Stakers: To ensure ample liquidity within the DEX and facilitate smooth trading experiences, 25% of the fees are distributed to liquidity providers who stake their tokens. This incentivizes users to contribute to the liquidity pool, benefiting both traders and the overall health of the DEX.
-- **25%** SatoshiLIRA Smart Contract: A crucial allocation is designated to nourish the lifeblood of the ecosystem - the SatoshiLIRA smart contract. These funds ensure the ongoing maintenance and functionality of the smart contract, safeguarding the foundation of the LIRA ecosystem.
 - **3%** Liquidity Pool: A dedicated portion is allocated to bolster the DEX's liquidity pool. This strategic investment ensures users can continue to enjoy efficient and seamless trading experiences with minimal slippage.
 - **2%** DAO Fund: Recognizing the importance of community governance, 2% of the fees are directed towards the DAO fund. This empowers the LIRA community to actively participate in decision-making processes and shape the future direction of the ecosystem.
 
