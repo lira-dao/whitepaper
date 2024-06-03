@@ -21,3 +21,12 @@ The Launchpad's value proposition extends beyond facilitating presales. By integ
 
 ### A Commitment to the Future
 The LIRA Launchpad embodies the core values of the LIRA ecosystem: innovation, collaboration, and democratization.  By empowering promising projects, fostering community involvement, and promoting the integration of Web3 technologies, the Launchpad plays a critical role in shaping the future of DeFi and propelling the LIRA ecosystem towards continued growth and prosperity.
+
+### Participation in Presale
+Users can participate in presales based on the total value in ETH of their staked Treasury Bonds (TB) on the LIRA DEX, plus any applicable boosts. This ensures that participants with significant stakes are rewarded with early access to promising new tokens.
+
+### Access to Airdrop Suite
+Users can access the Launchpad Airdrop Suite through the staking of LDT tokens on the Launchpad. The more LDT tokens staked and the longer the staking period, the more tokens the user will receive in airdrops. This incentivizes long-term commitment and provides a fair distribution of new tokens to active participants.
+
+### Project Requirements for Presale
+Every project that utilizes our Launchpad for their token presale must reserve 1% of their total token supply for LDT stakers on the Launchpad. These tokens are placed into a vault, which ensures their distribution over the course of one year. Every 24 hours, tokens are released from the vault and distributed to users who have staked LDT on the Launchpad.
