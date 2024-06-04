@@ -24,13 +24,10 @@ It's important to note that **these rewards come from a dedicated incentive pool
 
 ### Welcome Bonus: Encouraging Long-Term Commitment
 
-The Ambassador program goes beyond referral rewards.  To incentivize onboarding users who actively participate in the ecosystem, Ambassadors receive a one-time bonus when an invited user commits to staking at least 1 TB token for 6 months. This bonus structure encourages Ambassadors to not only expand the user base but also foster long-term engagement through staking.
+The Ambassador program goes beyond referral rewards.  To incentivize onboarding users who actively participate in the ecosystem, Ambassadors receive a one-time bonus when an invited user commits to staking at least 1 TB token for 6 months. This bonus will be 10% of the value of the locked staking by the referred user and will be paid in LDT. This structure encourages Ambassadors to not only expand the user base but also foster long-term engagement through staking.
 
 ## User Incentives: A Rewarding Ecosystem Experience
 The LIRA DAO ecosystem welcomes new users with open arms and a robust incentive program.  Users who enter through an invitation are eligible to receive rewards via staking mechanisms. These rewards, sourced from the same 10% allocation for staking rewards, acknowledge and incentivize user participation, fostering a community spirit of shared success.
-
-### Spreading the Word: User Referral Rewards
-Beyond staking, users can also benefit from the referral program.  The user referral system operates on a single-tiered structure.  Users can earn a 2.5% commission on the profits generated from their invitee's TB token staking activities.  This program incentivizes users to spread awareness within their networks and encourage others to join the LIRA DAO ecosystem.
 
 ### Unlocking Multi-Level Rewards: The Ambassador Upgrade Path
 For users seeking to maximize their earning potential, the Ambassador program offers an upgrade path.  By transitioning to Ambassador status, users gain access to referral rewards on the second and third tiers, allowing them to benefit from the activities of their extended network.  This upgrade typically involves a fee, which can be seen as an investment in unlocking greater earning potential within the LIRA DAO ecosystem.
