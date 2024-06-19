@@ -16,13 +16,17 @@ The LIRA ecosystem is on a dynamic trajectory, continuously evolving to deliver 
 ### Q2 2024:
 
 1. **LIRA DEX Deployment (Arbitrum)**: The launch of the LIRA Decentralized Exchange (DEX) on Arbitrum empowers users with a secure and user-friendly platform for seamless token trading within the LIRA ecosystem.
-2. **TB and LTB Series Token Introduction (Arbitrum)**: The introduction of the Treasury Bond (TB) token and the LTB Series tokens on Arbitrum expands the LIRA ecosystem's utility and functionality.
-3. **TB and LTB Staking and Farming implementation on LIRA DEX**
+2. **TB Series Token Introduction (Arbitrum)**: The introduction of the Treasury Bond (TB) token on Arbitrum expands the LIRA ecosystem's utility and functionality.
+3. **TB Staking and Farming implementation on LIRA DEX**
+4. **Multi-level Referral System**
 
 ### Q3 2024:
 
-1. **LIRA DEX Deployment (BSC Chain)**: Expanding the reach of the LIRA DEX, this deployment integrates it with the Binance Smart Chain (BSC) network, fostering wider user adoption.
-2. **DAO Governance System Implementation**: A cornerstone of the LIRA ecosystem's decentralized nature, the DAO governance system is implemented, empowering community members to actively participate in shaping the LIRA ecosystem's future.
+1. **Hidden Milestone**: We will disclose information about this milestone at the end of Q2 2024.
+2. **Satoshi LIRA sacrifice reward distribution**
+3. **LTB Series Token Introduction (Arbitrum)**:  The introduction of the LIRA Treasury Bond (TB) tokens on Arbitrum expands the LIRA ecosystem's utility and functionality.
+4. **LTB Staking and Farming implementation on LIRA DEX**
+5. **DAO Governance System Implementation**: A cornerstone of the LIRA ecosystem's decentralized nature, the DAO governance system is implemented, empowering community members to actively participate in shaping the LIRA ecosystem's future.
 
 
 
@@ -40,6 +44,10 @@ The LIRA ecosystem is on a dynamic trajectory, continuously evolving to deliver 
 1. **LIRA Chain Mainnet Launch**: The highly anticipated launch of the LIRA Chain mainnet signifies a significant milestone, marking the official operational commencement of the LIRA blockchain.
 2. **DAO Establishment**: The LIRA DAO is officially established, marking a pivotal shift towards community-driven governance within the LIRA ecosystem.
 3. **LIRA Chain Decentralization**: The process of decentralizing the LIRA Chain governance commences, progressively transferring control from the development team to the LIRA DAO community.
+
+### Q3 2025
+
+1. **LIRA DEX Deployment (BSC Chain)**: Expanding the reach of the LIRA DEX, this deployment integrates it with the Binance Smart Chain (BSC) network, fostering wider user adoption.
 
 ---
 
