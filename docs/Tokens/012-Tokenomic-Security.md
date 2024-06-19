@@ -20,11 +20,11 @@ To ensure transparency and security in the management of team funds, LIRA DAO ha
 **Team Safe Address:** 0x67Ca1A1BF9C9253f9aE475aA63e6730F8d4f3885
 
 **Team Member Wallets:** 
-1. 0xC4d7588b089b1F1b9C1c4D70f5ae9de848aC8d2d
-2. 0xD2F5A6274401e860fd4F655424A0A3bf80732d92
-3. 0x72710250265fAfbe9B56c37e5Fdabfa08b892830
-4. 0x0e0d31371e36cfF1476A19eEa0E77a2A072FB1A8
-5. 0x0A70f73d2C4c927a606f5DdDf751254455e8cDdA
+1. F.Paletta  : 0xC4d7588b089b1F1b9C1c4D70f5ae9de848aC8d2d
+2. E.Roio     : 0xD2F5A6274401e860fd4F655424A0A3bf80732d92
+3. J.Iessi    : 0x72710250265fAfbe9B56c37e5Fdabfa08b892830
+4. N.Angelucci: 0x0e0d31371e36cfF1476A19eEa0E77a2A072FB1A8
+5. G.Passeri  : 0x0A70f73d2C4c927a606f5DdDf751254455e8cDdA
 
 
 ## Marketing Safe Details:
@@ -32,10 +32,10 @@ To ensure transparency and security in the management of team funds, LIRA DAO ha
 **Safe Address:** 0xfe302984015FD1308448e8dfaB7898907f20c39c
 
 **Team Member Wallets:**
-1. 0xC4d7588b089b1F1b9C1c4D70f5ae9de848aC8d2d 
-2. 0x6d44EA07013D3614C98b9a494f97163eA28ce0Be
-3. 0x99d16B139f5c9A0844B72619fb36D5Fb2fEa8B1e
-4. 0x862149B7ee3C554597D78d469D43C334eaBE09Ac
-5. 0x178314CA22892d87bb3E377AbC2B0F22D8BF537c
+1. F.Paletta  : 0xC4d7588b089b1F1b9C1c4D70f5ae9de848aC8d2d 
+2. E.Roio     : 0x6d44EA07013D3614C98b9a494f97163eA28ce0Be
+3. J.Iessi    : 0x99d16B139f5c9A0844B72619fb36D5Fb2fEa8B1e
+4. N.Angelucci: 0x862149B7ee3C554597D78d469D43C334eaBE09Ac
+5. G.Passeri  : 0x178314CA22892d87bb3E377AbC2B0F22D8BF537c
 
 This multi-signature approach ensures that the team’s funds are managed securely, with all major decisions requiring collective agreement. This system helps maintain trust and integrity within the LIRA DAO ecosystem.
