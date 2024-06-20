@@ -15,7 +15,7 @@ By implementing these contracts, we ensure that the token distribution is automa
 ## LIRA DAO Team Safe
 To ensure transparency and security in the management of team funds, LIRA DAO has implemented a multi-signature safe. The team safe is designed to require signatures from at least 3 out of 5 team member wallets to authorize any transactions. This setup promotes accountability and minimizes the risk of unauthorized access.
 
-## Team Safe Details:
+### Team Safe Details:
 
 **Team Safe Address:** 0x67Ca1A1BF9C9253f9aE475aA63e6730F8d4f3885
 
@@ -26,10 +26,11 @@ To ensure transparency and security in the management of team funds, LIRA DAO ha
 4. N.Angelucci: 0x0e0d31371e36cfF1476A19eEa0E77a2A072FB1A8
 5. G.Passeri  : 0x0A70f73d2C4c927a606f5DdDf751254455e8cDdA
 
+---
 
-## Marketing Safe Details:
+### Marketing Safe Details:
 
-**Safe Address:** 0xfe302984015FD1308448e8dfaB7898907f20c39c
+**Marketing Safe Address:** 0xfe302984015FD1308448e8dfaB7898907f20c39c
 
 **Team Member Wallets:**
 1. F.Paletta  : 0xC4d7588b089b1F1b9C1c4D70f5ae9de848aC8d2d 
@@ -37,5 +38,20 @@ To ensure transparency and security in the management of team funds, LIRA DAO ha
 3. J.Iessi    : 0x99d16B139f5c9A0844B72619fb36D5Fb2fEa8B1e
 4. N.Angelucci: 0x862149B7ee3C554597D78d469D43C334eaBE09Ac
 5. G.Passeri  : 0x178314CA22892d87bb3E377AbC2B0F22D8BF537c
+
+---
+
+### Liquidity Fund Safe Details:
+
+**Liquidity Fund Safe Address:** 0x5C852c448e218e09510248201EA478741D902d3F
+
+**Team Member Wallets:**
+1. F.Paletta  : 0x88adac19584a893aff6D1D545C1E3F16decB2929
+2. E.Roio     : 0xA21af6c98ce1792eB68770dcf4F94b3d19daFabc
+3. J.Iessi    : 0x48A7C14F0B515c454EB74c5148d0eA19c42eE6ce
+4. N.Angelucci: 0x6d62d10D72752baE9695e83BB5Ca62748eb3a411
+5. G.Passeri  : 0x098F23E7416B03F1DB2828cBABCd1F72714bceF1
+
+---
 
 This multi-signature approach ensures that the team’s funds are managed securely, with all major decisions requiring collective agreement. This system helps maintain trust and integrity within the LIRA DAO ecosystem.
