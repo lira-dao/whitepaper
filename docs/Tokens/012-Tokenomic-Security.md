@@ -26,6 +26,8 @@ To ensure transparency and security in the management of team funds, LIRA DAO ha
 4. N.Angelucci: 0x0e0d31371e36cfF1476A19eEa0E77a2A072FB1A8
 5. G.Passeri  : 0x0A70f73d2C4c927a606f5DdDf751254455e8cDdA
 
+ The team's funds are released in proportion to the tokens staked within the ecosystem, capped at a maximum of 1% of the total staked supply, rather than the circulating supply. This ensures that the team’s incentives are aligned with the health and growth of the staking pool, maintaining a sustainable and balanced token economy.
+
 ---
 
 ### Marketing Safe Details:
