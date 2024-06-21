@@ -35,7 +35,7 @@ To ensure transparency and security in the management of team funds, LIRA DAO ha
 **Marketing Safe Address:** 0xfe302984015FD1308448e8dfaB7898907f20c39c
 
 **Team Member Wallets:**
-1. F.Paletta  : 0xC4d7588b089b1F1b9C1c4D70f5ae9de848aC8d2d 
+1. F.Paletta  : 0xDCfEE97113be3fb92C7E5F588e17Ec52b0F0cB6A 
 2. E.Roio     : 0x6d44EA07013D3614C98b9a494f97163eA28ce0Be
 3. J.Iessi    : 0x99d16B139f5c9A0844B72619fb36D5Fb2fEa8B1e
 4. N.Angelucci: 0x862149B7ee3C554597D78d469D43C334eaBE09Ac
